@@ -32,8 +32,13 @@
  ![information architecture](/readmeimg/information.png)
 # Skeleton
  Wire frame of this website please see the below.
+ homepage1
  ![homepage1](/readmeimg/homepage1.png)
+ homepage2
  ![homepage2](/readmeimg/homepage2.png)
+ pre-assessment
  ![pre-test](/readmeimg/pre-test.png)
+ learning page
  ![learningpage](/readmeimg/learningpage.png)
+ blog page
  ![blogpage](/readmeimg/blogpage.png)
