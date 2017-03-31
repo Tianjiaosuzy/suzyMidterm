@@ -67,3 +67,8 @@ textarea{
 .tag .chip{
   width: 80px;
 }
+
+.answers{
+  text-align: left;
+  margin-left: 55px;
+}
