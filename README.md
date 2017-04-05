@@ -6,7 +6,21 @@
 # Target Audience
  Whoever interested in learning a language and eager to use the language, see the achievement, and share with others.
 # User Story
- Already included in the website (in the homepage).
+1. Olivia  female  24
+  Occupation: Student
+  Interests: Browsing Internet, cooking and traveling
+  Technology Proficiency: Proficient in iPhone, Mac, and other latest digital device
+   "I want to study Spanish so badly, but it's boring to only repeat words and it's easy to forget. Keeping using the language is the key to develop the language skills. AND I REALLY NEED SOMEONE TO TRACK MY STUDY. So I would like to join a community where people share the same language interests with me and they can also monitor my learning."
+2. Marina  female  37
+   Occupation: High School Teacher
+   Interests: Reading books, volunteering
+   Technology Proficiency: Using Samsung and IBM laptop, know how to use office softwares and engage in social networking websites.
+   "I like learning a new language and making friends, but I don't have much time studying regularly. However, as a teacher in an international school, it's better to learn some Spanish, Chinese and Korean, and I would like to write down and share the stories I encountered in my class."
+3. Will male 28
+   Occupation: Performing arts designer
+   Interests: Hiking, making art works
+   Technology Proficiency: proficient in most updated devices (VR) and softwares (Adobe)
+   "Working in a culturally diversified team, it's always good to know some daily greetings and basic words and phrases. Also, my work requires me to travel a lot, so it is always inspiring for me to lean some foreign language."
 # Strategy
 1. Site Objectives:
  - The objectives of learning: 1. SWBAT start a conversation in various topics; 2. SWBAT write down what they learn in their blogs; 3. SWBAT proactively talk with users from other countries in the language they learnt
